@@ -36,6 +36,7 @@ PASSWORDS = {
     '.ace': b'Ed',   #✓
     '.tsd': b'waiting',
     '.mai': b'Ed',   #✓
+    '.hqi': b'Ed',   #✓
     '.ost': b'gggggg',
     '.wt': b'fuMnrztkzbQ',   #✓
     '.tnl': b'A^ST^f6ASG6AS5asd',   #✓
